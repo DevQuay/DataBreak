@@ -1,0 +1,7 @@
+@font-face {
+  font-family: DataBreakFamily;
+  src: url(databreakfont.ttf);
+}
+body{
+  font-family: DataBreakFamily;
+}
