@@ -4,4 +4,42 @@
 }
 body{
   font-family: DataBreakFamily;
+  color:#006c00;
+  text-align:center;
+  font-size:2vw;
+}
+ /* unvisited link */
+a:link {
+  color: #006c00;
+}
+
+/* visited link */
+a:visited {
+  color: #006c00;
+}
+
+/* mouse over link */
+a:hover {
+  color: #eaff00;
+}
+
+/* selected link */
+a:active {
+  color: #eaff00;
+} 
+html{
+    background-color:#003900;
+}
+@media screen and (min-width : 320px) {
+h1{
+    text-align:center;
+    font-size:5vw;
+}
+img{
+    width:40vw;
+    height:auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 }
