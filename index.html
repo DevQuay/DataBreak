@@ -1,14 +1,17 @@
-﻿<!DOCTYPE html>
-
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html>
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width = 320,initial-scale = 1, user-scalable = no">
 	<link rel="stylesheet" type="text/css" href="./Styles.css">
-	<title>Data;Break; Landing Page</title>
+	<title>Data;Break;</title>
 
 </head>
 <body>
-<a href="home.php">mhm</a>
+<div class="AllPage">
+<h1>Data;Break;</h1>
+<img src="./Shipe.png"></img>
+<a href="Download.html" target="_blank">Download</a>
+</div>
 </body>
 </html>
