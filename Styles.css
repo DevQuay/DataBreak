@@ -8,6 +8,12 @@ body{
   text-align:center;
   font-size:2vw;
 }
+.lowerRight{
+    width:15vw;
+    height:auto;
+    right: 5vw;
+    bottom: 10vh;
+}
  /* unvisited link */
 a:link {
   color: #006c00;
