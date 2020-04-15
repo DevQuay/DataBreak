@@ -12,6 +12,9 @@ body{
     width:15vw;
     height:auto;
 }
+a{
+  font-size: 4vw;
+}
  /* unvisited link */
 a:link {
   color: #006c00;
